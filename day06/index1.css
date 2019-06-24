@@ -1,0 +1,74 @@
+.ctn {
+    height: 110px;
+    margin: 0px auto;
+    /* border: 1px solid red; */
+}
+
+.head {
+    height: 80px;
+    /* border: 1px solid red; */
+}
+
+.head-1 {
+    width: 200px;
+    height: 80px;
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 0px;
+    left: 100px;
+}
+
+.mainbody {
+    height: 40px;
+    background: url("image/body_bg.jpg") repeat-x;
+    /* border: 1px solid red; */
+
+}
+
+.body-left {
+    position: absolute;
+    left: 90px;
+    /* margin: 0px 80px; */
+}
+
+.body-right {
+    position: absolute;
+    right: 100px;
+
+    /* margin: 0px auto; */
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 0px 15px;
+    margin: 0px auto;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+}
+
+.left {
+    font-size: 15px;
+
+
+}
+
+.right {
+
+    font-size: 5px;
+
+}
+
+a {
+    display: block;
+    /* border: 1px solid red; */
+}
+
+a:hover {
+    background: white;
+    color: orange;
+}

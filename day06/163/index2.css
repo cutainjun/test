@@ -1,0 +1,236 @@
+body {
+    background: #FAFAFA;
+}
+
+.mg1000 {
+    width: 1000px;
+    margin: 0px auto;
+    /* border: 1px solid red; */
+}
+
+/* .head-left {
+    float: left;
+} */
+
+.head-1 {
+    width: 120px;
+    height: 40px;
+    /* border: 1px solid red; */
+    background: url("./image/logo_wy.png");
+    float: left;
+}
+
+.head-2 {
+    /* border: 1px solid red; */
+    width: 10px;
+    height: 40px;
+    background: url("./image/dot_bg.jpg") repeat-y;
+    float: left;
+    margin: 0px 15px;
+}
+
+.head-3 {
+    font-size: 21px;
+    color: gray;
+    float: left;
+    line-height: 37px;
+    /* border: 1px solid red; */
+}
+
+.head-right {
+
+    float: right;
+    line-height: 37px;
+    padding: 0px 15px;
+
+}
+
+.head-4 {
+    padding: 0px 15px;
+    float: left;
+    /* border: 1px solid red; */
+}
+
+.head-5 {
+    padding: 0px 15px;
+    float: left;
+    /* border: 1px solid red; */
+    margin-left: 10px;
+}
+
+.head-4 a {
+    color: blue;
+}
+
+.head-5 a {
+    color: blue;
+}
+
+.body-1 {
+    margin-top: 10px;
+    height: 50px;
+    background: url("./image/tit_bg2.jpg") repeat-x center;
+    /* border: 1px solid red; */
+}
+
+.body-11 {
+    /* background: url("./image/tit_bg1.jpg"); */
+    float: left;
+    /* border: 1px solid red; */
+}
+
+.body-12 {
+    font-size: 13px;
+    line-height: 45px;
+    color: white;
+    float: left;
+    /* border: 1px solid red; */
+    margin-left: 10px;
+}
+
+.body-2 {
+    width: 500px;
+    margin: 0px auto;
+    /* border: 1px solid red; */
+}
+
+.body-r {
+    height: 500px;
+    /* border: 1px solid red; */
+}
+
+.body-h1 {
+    float: left;
+    /* border: 1px solid red; */
+}
+
+
+.body-h2 {
+    float: right;
+    /* border: 1px solid red; */
+}
+
+
+.body-21 {
+
+    margin: 40px 50px;
+    /* border: 1px solid red; */
+}
+
+.body-22 {
+    margin: 40px 50px;
+}
+
+.body-23 {
+    margin: 40px 50px;
+}
+
+.body-24 {
+    margin: 40px 50px;
+}
+
+.body-25 {
+    margin: 40px 50px;
+    /* border: 1px solid red; */
+}
+
+.body21 {
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
+
+.body22 {
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
+
+.body23 {
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
+
+.body24 {
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
+
+.body25 {
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
+
+.body-25-1 a {
+    color: blue;
+}
+
+.body-f1 {
+    float: left;
+}
+
+.body-f2 {
+    float: right;
+    width: 120px;
+    height: 25px;
+    /* border: 1px solid red; */
+}
+
+.body-26 {
+    font-size: 5px;
+    height: 25px;
+    /* border: 1px solid red; */
+}
+
+.body-26 a {
+    color: blue;
+}
+
+.body26-1 {
+    margin-left: 45px;
+}
+
+.body-27 {
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.body27-f {
+    width: 105px;
+    height: 40px;
+    margin-left: 40px;
+    background: url("./image/but.jpg") no-repeat;
+    border-style: 1px;
+}
+
+.foot {
+    /* border: 1px solid red; */
+    border-bottom: 5px;
+}
+
+.foot-1 {
+    float: left;
+    /* border: 1px solid red; */
+    margin: 0px 260px;
+}
+
+.foot-2 {
+    margin: -30px 155px;
+    float: right;
+    /* border: 1px solid red; */
+}
+
+.foot-11 li {
+    float: left;
+}
+
+.foot-11 {
+    /* margin: 0px 80px; */
+}
+
+.foot-11 a {
+    display: block;
+    padding: 0px 10px;
+    /* border: 1px solid red; */
+    line-height: 40px;
+    font-size: 5px;
+    color: rgb(163, 162, 162);
+}
